@@ -6,7 +6,8 @@ In short, it is the go-to website for anyone who wants information related to co
 
 Created By:
 
-### Tejas Tapas -
+### Shreyas Peherkar
+-
 Github Id: 
 
 ### Rishabh Rathi - 
